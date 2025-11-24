@@ -55,3 +55,24 @@ h1 {
     height: auto;
     border-radius: 10px;
 }
+
+/* Imagen ampliada */
+img.expanded {
+    width: 90%;
+    max-width: 700px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Botón cerrar */
+.close-image-btn {
+    display: block;
+    margin: 10px auto 20px;
+    padding: 10px 20px;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
