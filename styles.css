@@ -60,14 +60,14 @@ h1 {
     border-radius: 10px;
 }
 
-/* Fondo oscurecido del modal */
+/*Fondo oscurecido del modal*/
 .image-overlay {
     position: fixed;
     top: 0;
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: rgba(0, 0, 0, 0.7); /* 70% oscuro */
+    background: rgba(0, 0, 0, 0.7); /*Porcentaje de oscuridad*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -75,7 +75,7 @@ h1 {
     z-index: 9999;
 }
 
-/* Imagen del modal */
+/*Imagen del modal*/
 .image-overlay img {
     max-width: 90%;
     max-height: 80vh;
@@ -83,7 +83,7 @@ h1 {
     box-shadow: 0 0 20px black;
 }
 
-/* Botón cerrar */
+/*Botón cerrar*/
 .close-overlay-btn {
     margin-top: 15px;
     padding: 10px 25px;
