@@ -25,6 +25,13 @@ document.querySelectorAll(".gallery img").forEach(img => {
         const bigImg = document.createElement("img");
         bigImg.src = img.src;
 
+        //Texto de fecha
+        const dateText = document.createElement("p");
+        dateText.textContent = "Fecha de creación: 27/4/2026";
+        dateText.style.color = "white";
+        dateText.style.fontSize = "18px";
+        dateText.style.marginTop = "10px";
+
         //Botón cerrar
         const closeBtn = document.createElement("button");
         closeBtn.innerText = "Cerrar imagen";
@@ -37,6 +44,7 @@ document.querySelectorAll(".gallery img").forEach(img => {
 
         //Insertar elementos
         overlay.appendChild(bigImg);
+        overlay.appendChild(dateText);
         overlay.appendChild(closeBtn);
 
         document.body.appendChild(overlay);

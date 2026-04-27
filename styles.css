@@ -88,6 +88,7 @@ h1 {
     max-height: 80vh;
     border-radius: 10px;
     box-shadow: 0 0 20px black;
+    border: 5px solid white;
 }
 
 /*Botón cerrar*/
