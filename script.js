@@ -21,17 +21,17 @@ const imageDates = {
     "Games/BloodBorne.jpg": "17/02/2025",
     "Games/God Eater 3.png": "28/08/2025",
     "Games/Lies of P.png": "09/11/2025",
-    "Games/Monster Hunter.png": "27/4/2026 14:05:43",
-    "Games/Dark Souls.png": "27/4/2026 14:06:37",
-    "Otro/Claire.jpg": "27/4/2026 14:05:43",
-    "Otro/Zamael.jpg": "27/4/2026 14:05:43",
-    "Otro/Ben Really.png": "27/4/2026 14:05:43",
-    "Otro/Fenrir.png": "27/4/2026 14:05:43",
-    "Otro/Black Canary.jpg": "27/4/2026 14:05:43",
-    "Otro/RIP Toriyama.jpg": "27/4/2026 14:05:43",
-    "Otro/Pennywise.jpeg": "27/4/2026 14:05:43",
-    "Otro/ZamaelGG-Banner.jpeg": "27/4/2026 14:05:43",
-    "Otro/RascaBanner.jpeg": "27/4/2026 14:05:43"
+    "Games/Monster Hunter.png": "25/11/2022",
+    "Games/Dark Souls.png": "24/04/2026",
+    "Otro/Claire.jpg": "19/06/2023",
+    "Otro/Zamael.jpg": "22/03/2025",
+    "Otro/Ben Really.png": "23/08/2023",
+    "Otro/Fenrir.png": "09/01/2024",
+    "Otro/Black Canary.jpg": "15/01/2025",
+    "Otro/RIP Toriyama.jpg": "07/03/2024",
+    "Otro/Pennywise.jpeg": "20/01/2026",
+    "Otro/ZamaelGG-Banner.jpeg": "08/02/2026",
+    "Otro/RascaBanner.jpeg": "17/11/2024"
 };
 
 //Mostrar sección al hacer clic
